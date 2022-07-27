@@ -284,7 +284,8 @@ $
 
 ## Authors :black_nib:
 
-* **Gbadamosi Ayomide** **||** [Github](https://github.com/midevictor) **|** [Twitter](https://twitter.com/midevictor) **|** [email](midevictor90@gmail.com)  
+* **Esan Ayomide** **||** [Github](https://github.com/midevictor) **|** [Twitter](https://twitter.com/midevictor) **|** [email](midevictor90@gmail.com) 
+* **Abiye Junior Briggs (briggsact@gmail.com)  Cohort 5 
 
 
 ## Acknowledgements :pray:
